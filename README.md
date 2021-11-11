@@ -1,3 +1,10 @@
+## pre requests
+# - banco de dados mysql:
+      - database test
+      -table  department
+      -table seller
+      - carregar a base de dados com o script init.db na pasta source
+      
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
